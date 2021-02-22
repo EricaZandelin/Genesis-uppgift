@@ -1,0 +1,59 @@
+
+
+.contact__text {
+    margin-left: 150px;
+}
+
+.contact__mini {
+    width: 20%;
+}
+
+.contact__mini2 {
+    opacity: 0.8;
+}
+
+
+.input-field {
+    box-sizing: border-box;
+    width: 100%;
+    min-height: 32px;
+    margin-bottom: 10px;
+    border-bottom-left-radius: 5px;
+    padding-left: 7px;
+}
+
+
+
+.card {
+    position: relative;
+    border-radius: 2px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.form__page {
+    width: 25%;
+}
+
+.page {
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+    width: 125px;
+    height: 50px;
+    left: 760px;
+    top: 456px;
+    background-color: #4A4FF2;
+    color:white;
+    border:none;
+}
+
+.all__map {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    
+}
+
